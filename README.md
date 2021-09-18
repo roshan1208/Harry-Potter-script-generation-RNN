@@ -1,2 +1,6 @@
 # Predict-future-of-harry-potter-using-Deep-NLP
-this Deep NLP model going to predict how computer write harry potter book if i feed all 8 volume of harry potter to this model
+
+This project implemented RNN, GRU and embedding to generates harry potter scripts based on the famous J.K. Rowling's Harry Potter 7 Book series.
+
+
+
